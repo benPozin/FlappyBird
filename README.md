@@ -46,3 +46,4 @@ A simple Flappy Bird clone built in Java Swing. Fly the bird through the gaps be
 - Add sound effects and background music
 - Implement different difficulty levels
 - Add start menu and high score tracking
+- Add a delay after restarting
